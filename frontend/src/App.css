@@ -1,0 +1,18 @@
+/* Reset default Vite centering */
+:root {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+}
+
+body {
+  margin: 0;
+  display: block; /* Overrides the Vite 'place-items: center' */
+  width: 100%;
+}
+
+#root {
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}

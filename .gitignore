@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+env/
+.env
+blockchain_*.json
+
+# Node / React (Frontend)
+blocky-frontend/node_modules/
+blocky-frontend/dist/
+blocky-frontend/.env
+
+# OS
+.DS_Store
